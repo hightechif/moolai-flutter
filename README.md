@@ -1,4 +1,4 @@
-# moolai
+# Moolai
 
 A new Flutter project.
 
